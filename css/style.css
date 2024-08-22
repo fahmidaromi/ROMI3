@@ -1,0 +1,41 @@
+.my-button1{
+    background-color: yellow;
+    color: purple;
+}
+.btn1{background-color: red;
+    border-radius: 6px;
+    color: white;
+    padding: 10px;
+}
+.btn3:hover{
+    background-color: yellow;
+}
+.btn4{
+    background-color: purple;
+    box-shadow: purple;
+    padding-bottom: 10px;
+}
+.btn5{
+    background-color: #0aa2c0;
+    padding: 20px;
+}
+
+.btn7{
+    background-color: black;
+    color: yellow;
+}
+.btn8{
+    background-color: blue;
+}
+.btn9{
+    background-color: purple;
+}
+h1{
+    text-align: center;
+    text-color:green;
+}
+.my-btn{
+    background-color: #00cc00;
+    justify-content: center;
+    margin-top: 10px;
+}
